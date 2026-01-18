@@ -1,0 +1,30 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        working-directory: mkdocs-site
+        run: uv pip install --system -r requirements.txt
+
+      - name: Deploy
+        working-directory: mkdocs-site
+        run: mkdocs gh-deploy --force
