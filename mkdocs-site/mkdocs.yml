@@ -1,14 +1,13 @@
 site_name: Recipes
 site_description: Notes and recipes
 site_url: https://behealthy92.github.io/recipes/
-repo_url: https://github.com/behealthy92/recipes
-repo_name: behealthy92/recipes
+# Hide repository link in header.
+repo_url: ""
+repo_name: ""
 
 nav:
   - Home: index.md
   - Recipes:
-      - README: recipes/index.md
-      - Pancakes: recipes/pancakes.md
       - Frozen Triple Berry Smoothie: recipes/frozen-triple-berry-smoothie.md
 
 theme:
