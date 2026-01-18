@@ -19,12 +19,14 @@ jobs:
       - name: Set up uv
         uses: astral-sh/setup-uv@v4
         with:
-          python-version: '3.11'
+          python-version: "3.12"
 
       - name: Install dependencies
         working-directory: mkdocs-site
-        run: uv pip install --system -r requirements.txt
+        run: |
+          uv venv
+          uv pip install -r requirements.txt
 
       - name: Deploy
         working-directory: mkdocs-site
-        run: mkdocs gh-deploy --force
+        run: uv run mkdocs gh-deploy --force
