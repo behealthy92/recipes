@@ -29,4 +29,4 @@ jobs:
 
       - name: Deploy
         working-directory: .
-        run: uv run mkdocs gh-deploy --force
+        run: uv run mkdocs gh-deploy --force -f mkdocs-site/mkdocs.yml
