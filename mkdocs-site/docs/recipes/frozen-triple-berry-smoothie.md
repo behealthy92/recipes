@@ -1,31 +1,47 @@
 # Frozen Triple Berry Smoothie
 
-This recipe is designed for a single serving and focuses on a thick, creamy
-consistency perfect for breakfast or a snack.
+A single-serving smoothie with a thick, creamy texture that works well for
+breakfast or a quick snack.
+
+## Quick facts
+
+Prep time
+: 5 minutes
+
+Yield
+: 1 serving
+
+Texture goal
+: Thick, spoonable, and ice-cream-like
 
 ## Ingredients
 
 | Ingredient                | Quantity       | Notes                                                            |
 | :------------------------ | :------------- | :--------------------------------------------------------------- |
-| Frozen triple berry blend | 80g            | Strawberries, blueberries, raspberries, or your preferred mix.   |
-| Frozen banana             | Half           | Peel, chop, and freeze ahead of time for the best texture.       |
-| Greek yogurt (plain)      | 1/2 cup (115g) | Use full-fat or 2% for maximum creaminess.                       |
+| Frozen triple berry blend | 80 g           | Strawberries, blueberries, raspberries, or your preferred mix.   |
+| Frozen banana             | 1/2 banana     | Peel, chop, and freeze ahead of time for the best texture.       |
+| Greek yogurt (plain)      | 1/2 cup (115 g)| Use full-fat or 2% for maximum creaminess.                       |
 | Milk                      | 1/4 to 1/2 cup | Adjust based on desired thickness. Start with less and add more. |
 | Honey                     | 1 tablespoon   | Optional sweetener.                                              |
 
+!!! tip "Make-ahead prep"
+    Portion the frozen fruit and banana into a freezer bag so it is ready to
+    blend.
+
 ## Instructions
 
-1. Combine solids: Add the frozen triple berry blend, frozen banana chunks, and
-   Greek yogurt to a high-speed blender.
-2. Add liquid: Pour in the milk, starting with 1/4 cup. If using an optional
-   sweetener, add it now.
-3. Blend: Secure the lid and start blending on a low setting. Gradually increase
-   the speed.
-4. Scrape and adjust: Stop the blender and use a tamper (if available) or scrape
-   down the sides with a spatula to push the frozen ingredients toward the
-   blades.
-5. Achieve consistency: If the mixture is too thick and the blades are stalling,
-   add the remaining 1/4 cup of milk, one tablespoon at a time, until the
-   smoothie is moving freely and smooth. The goal is a thick, ice-cream-like
-   consistency.
-6. Serve: Pour immediately into a glass or bowl. Enjoy!
+1. **Load the blender.** Add the frozen berries, frozen banana, and Greek yogurt
+   to the blender jar.
+2. **Add liquid.** Pour in 1/4 cup milk. Add honey if using.
+3. **Blend slowly.** Start on low speed, then increase to high until the mixture
+   begins to move.
+4. **Scrape and adjust.** Stop the blender, scrape down the sides, and use a
+   tamper if available.
+5. **Dial in texture.** Add the remaining milk one tablespoon at a time until
+   the smoothie is thick but moves freely.
+6. **Serve immediately.** Pour into a glass or bowl and enjoy.
+
+## Serving ideas
+
+- Add a sprinkle of granola for crunch.
+- Top with extra berries or chia seeds.
