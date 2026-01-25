@@ -22,11 +22,11 @@ jobs:
           python-version: "3.13"
 
       - name: Install dependencies
-        working-directory: mkdocs-site
+        working-directory: .
         run: |
           uv venv
           uv pip install -r requirements.txt
 
       - name: Deploy
-        working-directory: mkdocs-site
+        working-directory: .
         run: uv run mkdocs gh-deploy --force
