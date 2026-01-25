@@ -9,6 +9,7 @@ nav:
   - Home: index.md
   - Recipes:
       - Frozen Triple Berry Smoothie: recipes/frozen-triple-berry-smoothie.md
+      - Garlic Sautéed Red Rice Bowl: recipes/garlic-sauteed-red-rice.md
 
 theme:
   name: material

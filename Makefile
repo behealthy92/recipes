@@ -3,7 +3,7 @@
 
 serve:
 	@echo "Starting mkdocs development server..."
-	uv run mkdocs serve -f mkdocs-site/mkdocs.yml
+	uv run mkdocs serve -f mkdocs-site/mkdocs.yml --livereload
 
 clean:
 	@echo "Cleaning up generated files..."
