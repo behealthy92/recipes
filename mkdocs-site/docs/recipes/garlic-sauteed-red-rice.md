@@ -3,13 +3,6 @@
 ## Overview
 A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and a protein of your choice. The flavors are savory and aromatic with a light, lemony finish, making it ideal for a nourishing lunch or weeknight dinner. Prep and cook happen in parallel, so everything comes together smoothly in about 40 minutes.
 
-## Key Nutrition Notes
-- Red rice adds complex carbs plus fiber and minerals like iron and magnesium.
-- The bowl balances carbs (rice, corn), protein (chicken or prawns), and fats (olive oil) for steady energy.
-- Broccoli boosts vitamin C and folate, supporting immune and cell health.
-- Use low-sodium soy sauce if you are watching sodium intake.
-- Contains allergens: egg, soy, and optional shellfish (prawns).
-
 ## A) Garlic Sautéed Red Rice (Base)
 
 ### Ingredients
@@ -117,18 +110,3 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
 ### Instructions
 1. **Build.** Spoon the red rice into a bowl, add roasted vegetables, corn, and your protein.
 2. **Finish.** Drizzle with sauce and add extra herbs or a lemon squeeze if desired.
-
-## Tips & Variations
-- Swap red rice for brown rice or quinoa; adjust water and cook time per package.
-- For a vegetarian option, use baked tofu or edamame instead of meat or prawns.
-- Add chili flakes or a dash of sesame oil for more heat and aroma.
-- Use tamari or coconut aminos for gluten-free soy alternatives.
-- Double the sauce if you like a more saucy bowl.
-
-## Storage & Reheating
-- Refrigerate leftovers in an airtight container for up to 3 days.
-- Reheat rice and vegetables in a skillet with a splash of water, or microwave in 30–60 second bursts until hot.
-- Store sauce separately and add after reheating for best flavor.
-
-## Nutrition (Per Serving)
-- Estimated: 560–650 calories, 30–40 g protein, 70–85 g carbs, 15–20 g fat (varies by protein choice and oil used).
