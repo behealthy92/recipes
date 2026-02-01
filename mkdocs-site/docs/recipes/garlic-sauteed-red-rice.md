@@ -138,6 +138,7 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
     | Light soy sauce | 2 tbsp (30 ml) | Use low-sodium if desired |
     | Brown sugar | 1 1/2 tbsp | |
     | Sesame oil | 1 tsp (5 ml) | |
+    | Rice vinegar | 1 tsp | |
 
 ### Instructions
 
