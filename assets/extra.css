@@ -1,0 +1,14 @@
+:root {
+  --md-text-font: "Spectral", serif;
+  --md-code-font: "JetBrains Mono", monospace;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  letter-spacing: 0.2px;
+}
+
+.md-header {
+  backdrop-filter: saturate(1.1) blur(8px);
+}
