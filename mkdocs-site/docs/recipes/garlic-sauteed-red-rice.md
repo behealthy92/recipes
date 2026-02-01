@@ -3,6 +3,14 @@
 ## Overview
 A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and a protein of your choice. The flavors are savory and aromatic with a light, lemony finish, making it ideal for a nourishing lunch or weeknight dinner. Prep and cook happen in parallel, so everything comes together smoothly in about 40 minutes.
 
+## Equipment
+- Small saucepan with lid
+- Medium skillet or sauté pan
+- Sheet pan
+- Mixing bowl
+- Whisk
+- Cutting board and knife
+
 ## A) Garlic Sautéed Red Rice (Base)
 
 ### Ingredients
@@ -96,14 +104,6 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
 
 ### Instructions
 1. **Whisk (1 minute).** Combine all sauce ingredients until the honey dissolves.
-
-## Equipment
-- Small saucepan with lid
-- Medium skillet or sauté pan
-- Sheet pan
-- Mixing bowl
-- Whisk
-- Cutting board and knife
 
 ## E) Assemble the Bowl
 
