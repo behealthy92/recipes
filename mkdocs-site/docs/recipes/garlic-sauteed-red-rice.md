@@ -41,15 +41,43 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
 | :-- | :-- | :-- |
 | Broccoli florets | 150 g (about 1 1/2 cups) | Toss with garlic, oil, salt, and pepper |
 | Button mushrooms | 80–120 g (about 3–4 oz) | Toss with oil, salt, and pepper |
-| Corn | 70 g (about 1/2 cup) | Steam or microwave if frozen |
 | Olive oil | 2 tsp | Divided for broccoli and mushrooms |
 | Garlic | 1 clove | Minced |
 | Fine sea salt | 1/4 tsp | |
 | Black pepper | 1/4 tsp | |
 
+=== "Corn"
+
+    | Ingredient | Amount | Notes |
+    | :-- | :-- | :-- |
+    | Corn | 70 g (about 1/2 cup) | Steam or microwave if frozen |
+
+=== "Edamame"
+
+    | Ingredient | Amount | Notes |
+    | :-- | :-- | :-- |
+    | Shelled edamame | 75 g (about 1/2 cup) | Steam or microwave if frozen |
+
+=== "Cherry tomato"
+
+    | Ingredient | Amount | Notes |
+    | :-- | :-- | :-- |
+    | Cherry tomatoes | 90 g (about 2/3 cup) | Halved |
+
 ### Instructions
 1. **Roast the vegetables (12–15 minutes).** Heat the oven to 200°C (400°F). Toss broccoli with garlic, 1 tsp oil, salt, and pepper. Toss mushrooms with 1 tsp oil, salt, and pepper. Roast on a sheet pan, flipping halfway, until browned at the edges.
-2. **Warm the corn (2–3 minutes).** Steam or microwave the corn if frozen, then set aside.
+
+=== "Corn"
+
+    2. **Warm the corn (2–3 minutes).** Steam or microwave the corn if frozen, then set aside.
+
+=== "Edamame"
+
+    2. **Warm the edamame (2–3 minutes).** Steam or microwave the edamame if frozen, then set aside.
+
+=== "Cherry tomato"
+
+    2. **Prep the tomatoes (1 minute).** Halve the cherry tomatoes and set aside.
 
 ## C) Protein (Pick 1)
 
@@ -108,5 +136,5 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
 ## E) Assemble the Bowl
 
 ### Instructions
-1. **Build.** Spoon the red rice into a bowl, add roasted vegetables, corn, and your protein.
+1. **Build.** Spoon the red rice into a bowl, add roasted vegetables, your chosen add-in, and your protein.
 2. **Finish.** Drizzle with sauce and add extra herbs or a lemon squeeze if desired.
