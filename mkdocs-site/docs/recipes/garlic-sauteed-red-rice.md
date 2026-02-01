@@ -78,6 +78,16 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
     | Black pepper | 1/8 tsp | |
     | Lemon wedge | 1 | Optional finish |
 
+=== "Grilled Salmon (~120 g cooked)"
+    | Ingredient | Amount | Notes |
+    | :-- | :-- | :-- |
+    | Salmon fillet (raw) | 150 g | Skin-on or skinless |
+    | Olive oil | 1 tsp | Or butter |
+    | Fine sea salt | 1/4 tsp | |
+    | Black pepper | 1/4 tsp | |
+    | Garlic (optional) | 1 clove | Finely minced or garlic powder |
+    | Lemon wedge | 1 | Optional finish |
+    
 ### Sauce (pick 1)
 
 === "Lemon Soy (bright + light)"
@@ -172,6 +182,19 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
 !!! tip "Avoid rubbery prawns"
     Pull them the moment they turn opaque—carryover heat finishes the job.
 
+=== "Grilled Salmon"
+    !!! tip "Doneness guide"
+        Salmon is usually great at **52–57°C** (medium to medium-well).  
+        For a fully cooked texture, go closer to **60–63°C**.
+
+    1. **Pat dry** salmon fillet (crispier exterior).
+    2. **Season:** salt + pepper (and optional garlic).
+    3. **Preheat pan:** medium-high, add oil/butter.
+    4. **Sear first side:** place salmon **presentation-side down** (or skin-side down if skin-on). Cook **3–4 min** until nicely browned.
+    5. **Flip:** cook **2–4 min** more (time depends on thickness) until flaky at the edges.
+    6. **Rest 2 min**, then break into chunks.
+    7. **Optional:** finish with lemon squeeze.
+    
 ---
 
 ### 5) Optional add-in (pick 0–1)
