@@ -8,6 +8,7 @@
 - All recipe content must be written in Markdown that renders well in MkDocs.
 - Use clear headings and consistent structure.
 - Prefer short paragraphs and scannable lists.
+- Prefer tables for ingredients and prep details; avoid converting ingredient tables into bullet lists unless a table would be less clear.
 - Use metric + US customary measurements when possible.
 - When presenting multiple variants or options, use MkDocs tabbed content (e.g., `=== "Option"` blocks) to improve readability.
 
