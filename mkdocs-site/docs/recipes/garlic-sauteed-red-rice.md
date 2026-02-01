@@ -179,8 +179,8 @@ A warm, customizable bowl with a garlicky red rice base, roasted vegetables, and
     5. **Cook prawns:** ~**1.5–2 min per side** until pink and opaque.
     6. **Optional:** finish with a squeeze of lemon.
 
-!!! tip "Avoid rubbery prawns"
-    Pull them the moment they turn opaque—carryover heat finishes the job.
+    !!! tip "Avoid rubbery prawns"
+        Pull them the moment they turn opaque—carryover heat finishes the job.
 
 === "Grilled Salmon"
     !!! tip "Doneness guide"
